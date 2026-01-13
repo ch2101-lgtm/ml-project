@@ -1,0 +1,20 @@
+[project]
+name = "ml-project"
+version = "0.1.0"
+description = "NanoDTC machine learning project"
+authors = [
+  { name = "Caitriona Hastings", email = "ch2101@cam.ac.uk" }
+]
+readme = "README.md"
+requires-python = ">=3.10"
+
+dependencies = [
+  "numpy",
+  "scipy",
+  "pandas",
+  "matplotlib",
+]
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
