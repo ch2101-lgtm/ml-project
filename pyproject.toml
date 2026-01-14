@@ -1,9 +1,9 @@
 [project]
-name = "ml-project"
+name = "project-name"
 version = "0.1.0"
-description = "NanoDTC machine learning project"
+description = "Short description of the project"
 authors = [
-  { name = "Caitriona Hastings", email = "ch2101@cam.ac.uk" }
+  { name = "Your Name", email = "you@example.com" }
 ]
 readme = "README.md"
 requires-python = ">=3.10"
